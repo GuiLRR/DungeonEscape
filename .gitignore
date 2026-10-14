@@ -1,0 +1,20 @@
+# Pastas temporárias e de cache geradas pela Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Arquivos de workspace de IDEs
+.vs/
+.idea/
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.xcodeproj
+*.xcworkspace
+.junie/
+
+# Builds empacotados
+Build/
+Builds/
